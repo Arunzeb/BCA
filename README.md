@@ -7,7 +7,7 @@ All Pokhara University BCA exam Q&amp;A
 
 
 
-Note if you fork it and add/edit answers and remove mistakes it will be great contribution towards your exam and towards all those juniour brothers and sister which suffer from not having notes and answer of their upcomming exam.
+Note if you fork it and add/edit answers and remove mistakes it will be great contribution towards your exam and towards all those junior brothers and sister which suffer from not having notes and answer of their upcomming exam.
 
 
 
