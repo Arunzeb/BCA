@@ -11,7 +11,7 @@ Note if you fork it and add/edit answers and remove mistakes it will be great co
 
 For discussion, join this Telegram group: https://t.me/BCA_PokharaUniversity
 
-For upstream regular updates, join this Telegram Channel: https://t.me/BCA_PokharaUniversity_Exam
+For upstream notes updates, join this Telegram Channel: https://t.me/BCA_PokharaUniversity_Exam
 
 
 
