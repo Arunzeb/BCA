@@ -12,8 +12,9 @@ Well, I prepare my exam by searching, reading, understanding and documenting ent
 I recommend everyone to use [LibreOffice](https://www.libreoffice.org/) if you don't want to see any weird issues. Its free and opensource office suite. You will love it if you know how to use it.
 
 # Links
-For upstream notes updates, join (our Telegram Channel)[https://t.me/BCA_PokharaUniversity_Exam].
-For discussion, join (our Telegram group)[https://t.me/BCA_PokharaUniversity].
+For upstream notes updates, join our (Telegram Channel)[https://t.me/BCA_PokharaUniversity_Exam].
+
+For discussion, join our (Telegram Group)[https://t.me/BCA_PokharaUniversity].
 
 
 
