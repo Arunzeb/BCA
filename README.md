@@ -2,7 +2,7 @@
 All Pokhara University BCA exam Q&amp;A
 
 
-# Disclaimer: 
+# Disclaimer
 _I DO NOT claim or guarantee whether the answer written here is 100% accurate. If you feel something is not accurate or out-of-order, it will be a great help, if you let me know._
 
 # What is this?
